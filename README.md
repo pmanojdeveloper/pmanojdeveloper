@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @pmanojdeveloper
-- 👀 I’m interested in Development
-- 🌱 I’m currently Upskill my skills to engage in coding.
-- 💞️ I’m looking to collaborate on Coding Languages
+- 👋 Hi, I’m Manojkumar Poola (@pmanojdeveloper)
+- 🌐 I have over 2.3 years of experience as a PHP developer, crafting robust and scalable web applications.
+- 🛠️ Proficient in PHP, JavaScript, HTML, CSS, and MySQL, with hands-on experience in frameworks like Laravel and CodeIgniter.
+- 👀 I’m deeply passionate about Development, with a particular focus on web development.
+- 🚀 Constantly seeking to upskill and stay updated with the latest trends in web technologies.
+- 💡 Enthusiastic about learning new coding languages and exploring innovative solutions to complex problems.
+- 🌱 Currently enhancing my skill set to engage in more advanced and challenging coding projects.
+- 💞️ Looking to collaborate on exciting web development projects and contribute to open-source communities.
 - 📫 How to reach me  Email: manojpkumardev@gmail.com
 
-<!---
-pmanojdeveloper/pmanojdeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
